@@ -1,3 +1,1 @@
-4th changed
-My boss is stupid.
-
+Creating a NEW branch is quick & simple.
